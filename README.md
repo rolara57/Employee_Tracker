@@ -5,6 +5,8 @@
  https://rolara57.github.io/Employee_Tracker/.
  
  
+ ![EmployeeTracker](https://user-images.githubusercontent.com/60681276/103608336-c0401c80-4ee0-11eb-8df9-6928eb317cb9.gif)
+ 
 
 
 
