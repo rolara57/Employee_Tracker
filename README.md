@@ -5,7 +5,7 @@
  https://rolara57.github.io/Employee_Tracker/.
  
  
- ![Employee_Tracker](https://user-images.githubusercontent.com/60681276/103607360-532b8780-4ede-11eb-9f82-df5b846ab75d.gif)
+
 
 
 # Motivation
