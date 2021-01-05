@@ -5,7 +5,7 @@
  https://rolara57.github.io/Employee_Tracker/.
  
  
-
+[Screen_Recording_2021-01-04_at_9 53 36_PM](https://user-images.githubusercontent.com/60681276/103609092-b0293c80-4ee2-11eb-9859-6565ff456fe5.gif)
  
 
 
